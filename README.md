@@ -8,3 +8,8 @@ Add to Index.php
 
 include 'userTracking.php'
 
+
+
+
+# ALERT
+Accuration is not 100%
