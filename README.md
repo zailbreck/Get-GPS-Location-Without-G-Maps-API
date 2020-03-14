@@ -5,9 +5,11 @@ Simple Code to Access Location (user)  and Save location User to Database (secre
 # HOW TO USE
 
 //Main index.php
-<?php
-include 'userTracking.php'
+//<?php
+//include 'userTracking.php'
 
 //Main Code 
-...
-?>
+//...
+//?>
+
+Remove //
